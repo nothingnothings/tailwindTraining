@@ -12,7 +12,7 @@ Here are the sites I have deployed as part of my Tailwind training:
 
 1. **[Clipboard](https://link-to-project1.com)**
 
-2. **[LoopStudios](https://link-to-project2.com)**
+2. **[LoopStudiosTraining](https://github.com/nothingnothings/loopStudiosTraining)**
 
 3. **[ShortlyTraining](https://github.com/nothingnothings/shortlyTraining)**
 
