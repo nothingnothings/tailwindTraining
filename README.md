@@ -29,7 +29,7 @@ Here are the sites I have deployed as part of my Tailwind training:
 
 5. **[Fylo](https://link-to-project3.com)**
 
-6. **[BookmarkManager](https://link-to-project3.com)**
+6. **[BookmarkTraining](https://github.com/nothingnothings/bookmarkTraining)**
 
 
 
