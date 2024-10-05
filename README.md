@@ -14,7 +14,7 @@ Here are the sites I have deployed as part of my Tailwind training:
 
 2. **[LoopStudios](https://link-to-project2.com)**
 
-3. **[Shortly](https://link-to-project3.com)**
+3. **[ShortlyTraining](https://github.com/nothingnothings/shortlyTraining)**
 
 4. **[TestimonialGrid](https://link-to-project3.com)**
 
