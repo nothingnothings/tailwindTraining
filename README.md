@@ -26,7 +26,7 @@ Here are the sites I have deployed as part of my Tailwind training:
 
 ## Usage
 
-To view the projects, simply click on the links above. Each project is hosted online and can be accessed through a web browser. For more detailed information about the code, you can check out the individual repositories linked within each project.
+To view the projects, simply click on the links above. Each project is hosted on Netlify and can be accessed through a web browser. For more detailed information about the code, you can check out the individual repositories linked within each project.
 
 
 ## License
