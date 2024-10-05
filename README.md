@@ -10,7 +10,7 @@ Tailwind CSS is a utility-first CSS framework that enables rapid UI development.
 
 Here are the sites I have deployed as part of my Tailwind training:
 
-1. **[Clipboard](https://link-to-project1.com)**
+1. **[ClipboardTraining](https://github.com/nothingnothings/clipboardTraining)**
 
 2. **[LoopStudiosTraining](https://github.com/nothingnothings/loopStudiosTraining)**
 
