@@ -27,7 +27,7 @@ Here are the sites I have deployed as part of my Tailwind training:
 
 4. **[TestimonialGrid](https://link-to-project3.com)**
 
-5. **[Fylo](https://link-to-project3.com)**
+5. **[FyloTraining](https://github.com/nothingnothings/fyloTraining)**
 
 6. **[BookmarkTraining](https://github.com/nothingnothings/bookmarkTraining)**
 
